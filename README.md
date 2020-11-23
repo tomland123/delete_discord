@@ -1,10 +1,10 @@
 # Delete Discord
 
-**_WARNING_** This script violates the Discord Terms of Service if used. Your account might be suspended for suspicious activity.
+**_WARNING_** This script may violate the Discord Terms of Service if used. Your account might be suspended for suspicious activity.
 
 What this does:
 
-It lists all the servers and the channels on your server that your bot account is a part of. Then, it can delete all of your messages in a server or in a specific channel on a server. This is useful to free up hard disk space on Discord's servers, and so on.
+It lists all the servers and the channels on your server that your account is a part of. Then, it can delete all of your messages in a server or in a specific channel on a server. This is useful to free up hard disk space on Discord's servers, and so on.
 
 **How to use:**
 
@@ -37,4 +37,4 @@ A server must be selected with menu option 1.
 **6. Delete all messages in the selected channel on the selected server"**
 Delete all messages that your bot wrote on the selected channels in the selected server. Takes a while as Discord only allows api's to do 2 requests a second and each deleted message is a request! A server must be selected with menu option 1, and a channel must be selected with option 2.
 
-A fork of: https://github.com/brian-lui/delete-discord
+An updated fork of: https://github.com/brian-lui/delete-discord
