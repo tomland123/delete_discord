@@ -285,6 +285,7 @@ class ClientManager():
     def menu_credentials(self):
         # If you wanna submit a pull request to improve this section please do
         print("Don't run this on a public computer. Not sure what a token is? Checkout this website:")
+        # self.token=input("NzgwMzU5OTQ2ODc3MjcyMDk1.X7t9gQ.LuYd1M9dqG_1m0ZHfF4BCPIgksY") // to reset token without a password I pushed it to github.
         self.token = input("Enter your discord token: ")
 
 
